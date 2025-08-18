@@ -46,7 +46,7 @@ I aim to grow into a role as a **Data Analyst / Data Scientist**, applying my te
 ## 🌐 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-rawat-b63894249) 
 - 🐙 [GitHub](https://github.com/Priyanshu-2025)  
-- 📧 Email: *priyanshurawat315@gmail.com*  
+- 📧 [Email](priyanshurawat315@gmail.com)  
 
 ---
 
