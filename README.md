@@ -24,7 +24,7 @@ Currently, I’m building my skills by creating **Python mini projects** and wor
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Databases**: MySQL, PostgreSQL  
 - **Version Control**: Git & GitHub  
-- **Other Tools**: Tableau (beginner), Power BI (beginner)  
+- **Other Tools**: Tableau, Power BI
 
 ---
 
@@ -46,7 +46,7 @@ I aim to grow into a role as a **Data Analyst / Data Scientist**, applying my te
 ## 🌐 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-rawat-b63894249) 
 - 🐙 [GitHub](https://github.com/Priyanshu-2025)  
-- 📧 [Email](priyanshurawat315@gmail.com)  
+- 📧 [Email](mailto:priyanshurawat315@gmail.com)  
 
 ---
 
