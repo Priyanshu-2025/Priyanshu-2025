@@ -28,11 +28,11 @@ I’m an **MCA graduate** passionate about **Python development, Data Analytics,
 ---
 
 ## 📂 Featured Work  
-- 🎬 MovieBooking – Backend API for movie ticket booking with database integration using Python and Flask.
-- 🍽️ Zomato-Data-Analysis – Machine learning project analyzing Zomato restaurant data to predict ratings using Python.
-- 🕹️ Pong-Game – Classic Pong game implemented in Python with Pygame.
-- 📰 Fake-News-Detection-API  – Detect fake news articles using Python API and NLP.
-- 🛠️ Mini Projects – A collection of beginner-friendly Python projects, including games and utilities.
+- 🎬 [MovieBooking](https://github.com/Priyanshu-2025/MovieBooking) – Backend API for movie ticket booking with database integration using Python and Flask.
+- 🍽️ [Zomato-Data-Analysis](https://github.com/Priyanshu-2025/Zomato-Data-Analysis) – Machine learning project analyzing Zomato restaurant data to predict ratings using Python.
+- 🕹️ [Pong-Game](https://github.com/Priyanshu-2025/Pong-Game) – Classic Pong game implemented in Javascrit and HTML.
+- 📰 [Fake-News-Detection-API](https://github.com/Priyanshu-2025/Fake-News-Detection-API)  – Detect fake news articles using Python API and NLP.
+- 🛠️ [Mini Projects](https://github.com/Priyanshu-2025/Mini-Projects) – A collection of beginner-friendly Python projects, including games and utilities.
 
 ---
 
