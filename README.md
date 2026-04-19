@@ -1,53 +1,26 @@
-# 👋 Hi, I’m Priyanshu Rawat  
+# Priyanshu Rawat — Data Analyst
 
-I’m an **MCA graduate** passionate about **Python development, Data Analytics, and Data Science**. I am building my skills through mini-projects and aim to transition from an **Application Support Engineer** to a **Data Analytics/Data Science role**.
+Application Support Engineer with **3+ years of daily SQL experience** on live production banking databases. Transitioning full-time into Data Analytics and MIS.
 
----
+## What I work with
+| Area | Tools |
+|------|-------|
+| Querying & Databases | SQL (SELECT, JOINs, GROUP BY) · MySQL |
+| Reporting & BI | Power BI (DAX, Power Query) · Excel (Pivot, VLOOKUP) |
+| Python Analytics | Pandas · NumPy · Matplotlib · Seaborn |
+| Other | Git · Flask · Web Scraping (Requests, BeautifulSoup) |
 
-## 🧠 About Me  
-- 🎓 **Education**: Master of Computer Applications (MCA)  
-- 💼 **Background**: Experience as an Application Support Engineer, handling escalations, troubleshooting, and backend operations.  
-- 🐍 **Focus**: Strengthening problem-solving skills through Python mini-projects.  
-- 📊 **Goal**: Moving towards **Data Analytics & Data Science**, with hands-on practice in Python, SQL, and visualization tools.  
-- 🌱 **Currently Learning**:  
-  - Advanced Python programming  
-  - Data analysis libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`)  
-  - SQL optimization and database design  
-  - Power BI for visualization  
-  - Machine Learning basics  
+## Featured Projects
+| Project | Tools | What it does |
+|---------|-------|-------------|
+| Zomato Data Analysis | Python, Pandas, Seaborn | EDA on restaurant data — pricing, ratings, trends |
+| Fake News Detection API | Python, NLP, Flask | ML classifier with 85% accuracy + REST API |
 
----
+## Currently
+- Actively seeking: **Data Analyst · MIS Analyst · Reporting Analyst** roles
+- Learning: ETL pipelines · dbt basics · cloud fundamentals (Azure)
+- Location: New Delhi, India | Open to remote
 
-## 💻 Skills  
-- **Languages**: Python, C, C++, SQL  
-- **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Databases**: MySQL, PostgreSQL  
-- **Version Control**: Git & GitHub  
-- **Other Tools**: Power BI
-
----
-
-## 📂 Featured Work  
-- 🎬 [MovieBooking](https://github.com/Priyanshu-2025/MovieBooking) – Backend API for movie ticket booking with database integration using Python and Flask.
-- 🍽️ [Zomato-Data-Analysis](https://github.com/Priyanshu-2025/Zomato-Data-Analysis) – Machine learning project analyzing Zomato restaurant data to predict ratings using Python.
-- 🕹️ [Pong-Game](https://github.com/Priyanshu-2025/Pong-Game) – Classic Pong game implemented in Javascrit and HTML.
-- 📰 [Fake-News-Detection-API](https://github.com/Priyanshu-2025/Fake-News-Detection-API)  – Detect fake news articles using Python API and NLP.
-- 🛠️ [Mini Projects](https://github.com/Priyanshu-2025/Mini-Projects) – A collection of beginner-friendly Python projects, including games and utilities.
-
----
-
-## 🎯 Career Goals  
-- Transition into **Data Analytics/Data Science** using Python, SQL, and visualization tools.
-- Work on **real-world projects** to generate actionable insights from data.
-- Learn **AI, ML, and algorithmic trading concepts** to enhance analytical skills.
-
----
-
-## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-rawat-b63894249) 
-- 🐙 [GitHub](https://github.com/Priyanshu-2025)  
-- 📧 [Email](mailto:priyanshurawat315@gmail.com)  
-
----
-
-✨ “Learning by building — every project brings me closer to mastering Python, Data Analytics, and Data Science.”
+## Connect
+LinkedIn: linkedin.com/in/priyanshu-rawat-b63894249
+Email: priyanshurawat315@gmail.com
